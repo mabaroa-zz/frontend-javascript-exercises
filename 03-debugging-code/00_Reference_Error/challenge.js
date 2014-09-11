@@ -1,3 +1,3 @@
-// module.exports.hello = function(msg) {
-//   return "Hello " + msg;
-// };
+ var hello = module.exports.hello = function(msg) { 
+  return "Hello " + msg;
+ };
